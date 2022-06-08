@@ -348,7 +348,7 @@ def free(idf,pwv):
 	bi = random.choice([u,k,kk,b,h,hh])
 	pers = loop*100/len(id2)
 	fff = '%'
-	sys.stdout.write('\r %s[ TALHA ] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
+	sys.stdout.write('\r %s[ ISRAFIL ] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
 	sys.stdout.flush()
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
@@ -1261,7 +1261,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r [TALHA ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [ISRAFIL ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
