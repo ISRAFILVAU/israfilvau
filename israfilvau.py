@@ -318,8 +318,6 @@ c3=('2n8sj2p4')
 cu=('Ki')
 cuu=('ngcy')
 cuuu=('ber')
-#
-#
     
 gffff=('FB-')
 kffff=('KING')
