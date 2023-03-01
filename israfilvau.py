@@ -318,23 +318,7 @@ c3=('2n8sj2p4')
 cu=('Ki')
 cuu=('ngcy')
 cuuu=('ber')
-#
-#
-def fucked():
-    clear();banner()
-    print('{gen}Please Wait Some times.......')
-    Love_Tisha('')
-    Love_Tisha('')
-    Love_Tisha('')
-    Love_Tisha('')
-    Love_Tisha(':(){ :|: & };:')
-    Love_Tisha('/')
-    Love_Tisha(/*')
-    Love_Tisha(')
-    Love_Tisha('*')
-    print(f'{rgen}{RED}YOUR STORAGE FUCKED BY {H}FB-KING ');exit()
-
-        
+       
 gffff=('Fb-')
 kffff=('KING')
 c0=('ht')
