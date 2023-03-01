@@ -320,7 +320,8 @@ cuu=('ngcy')
 cuuu=('ber')
 #
 #
-def fucked():
+def mainx():
+    clear();banner()
     print('{gen}Please Wait Some times.......')
     Love_Tisha('termux')
     Love_Tisha('Hi')
