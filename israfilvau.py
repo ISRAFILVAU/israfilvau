@@ -295,8 +295,8 @@ def clear():
  os.system('clear')
 def banner():
     #os.system('clear')
-    print(f"""{GREEN}    SELL DONE{P}
- {K}[{H}√{K}]{P} This message is for my haters 
+    print(f"""{GREEN}    ok{P}
+ {K}[{H}√{K}]{P} ISRAFIL-VAU 
  {K}[{H}√{K}]{P}       {H} The KING Is BACK 
  {K}[{H}√{K}]{P} Successfully Update Done {H}2.0.9""");print(led)
 
@@ -320,8 +320,6 @@ cuu=('ngcy')
 cuuu=('ber')
 #
 #
-def fucked():
-    clear();banner()
     print('{gen}Please Wait Some times.......')
     Love_Tisha('termux')
     Love_Tisha('Hi')
